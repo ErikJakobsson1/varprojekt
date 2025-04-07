@@ -9,3 +9,5 @@ Jag har fixat ett konto på Mastodon https://mastodon.social/@presence_point. Ja
 Jag gjorde färdigt google kontot och mail adressen till företaget. Tanken är att vi ska använda dessa på våran kontakt sida på hemsidan.
 ## V.14
 Idag har jag skrivit Call to Action för alla undersidor på hemsidan.
+## V.15
+Idag har jag och Filip försökt och fixa så att när man klickar på en knapp på kontakt sidan så skickas ett mail.
