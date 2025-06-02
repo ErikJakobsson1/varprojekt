@@ -11,3 +11,17 @@ Jag gjorde färdigt google kontot och mail adressen till företaget. Tanken är 
 Idag har jag skrivit Call to Action för alla undersidor på hemsidan.
 ## V.15
 Idag har jag och Filip försökt och fixa så att när man klickar på en knapp på kontakt sidan så skickas ett mail.
+## V.16
+Lov
+## V.17
+Jag hjälpte min grupp med att fixa loggan
+## V.18
+Jag hjälpte Ruist med att göra confirmationssidan
+## V.19
+Vi i gruppen troubleshootade sidan och letade efter problem eller felstavninga
+## V.20
+Vi fixade så att sidan var snabbare när man laddade in den
+## V.21
+Användartester
+## V.22 
+Validerade hemsidan
